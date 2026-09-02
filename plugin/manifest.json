@@ -1,0 +1,16 @@
+{
+  "manifest_version": "0.2",
+  "name": "bar-compliant-marketing-reviewer",
+  "display_name": "Bar-Compliant Marketing Reviewer for Law Firms",
+  "version": "1.0.0",
+  "description": "One skill: /marketing-review. Reviews attorney marketing materials — websites, social posts, ads, email campaigns — against your state bar's advertising rules and flags non-compliant language before it goes live.",
+  "author": {
+    "name": "Protomated",
+    "url": "https://protomated.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/protomated/claude-bar-compliant-marketing-reviewer"
+  },
+  "license": "Apache-2.0"
+}
