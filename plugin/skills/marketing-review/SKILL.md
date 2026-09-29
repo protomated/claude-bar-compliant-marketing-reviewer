@@ -2,6 +2,17 @@
 name: marketing-review
 description: Review draft marketing copy — a website page, ad, social post, or review response — against ABA Model Rules 7.1–7.3 and the advertising rules of the state(s) you configure. Flags language that needs attorney attention with the specific rule cited and a suggested compliant rewording. Never says copy "is compliant" — only flags issues for review.
 argument-hint: "[optional: which state(s) to check against, or which piece of copy if more than one is attached — the skill asks if you don't specify]"
+last_verified: 2026-09-29
+freshness_window: 6 months
+freshness_category: regulatory
+verified_against:
+  - https://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/rule_7_1_communication_concerning_a_lawyer_s_services/
+  - https://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/rule_7_3_direct_contact_with_prospective_clients/
+  - https://www.calbar.ca.gov/Attorneys/Conduct-Discipline/Rules/Rules-of-Professional-Conduct/Current-Rules/Chapter-7-Information-About-Legal-Services
+  - https://www.texasbar.com/tdrpc/
+  - https://nycourts.gov/ad3/agc/rules/22NYCRR-Part-1200.pdf
+  - https://www.floridabar.org/ethics/etad/
+  - http://www.illinoiscourts.gov/SupremeCourt/Rules/Art_VIII/default_NEW.asp
 ---
 
 # /marketing-review — Bar-Compliant Marketing & Ad Copy Reviewer
