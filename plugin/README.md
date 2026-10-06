@@ -4,6 +4,8 @@ A Claude Desktop plugin for solo and small-firm attorneys. One skill (`/marketin
 
 **Distributed by [Protomated](https://protomated.com) as a free download.**
 
+**Works with:** Claude Desktop and ChatGPT Desktop (paid plans — not available on free ChatGPT).
+
 ---
 
 ## ⚠️ Required: Read This Before You Install
@@ -33,6 +35,10 @@ This plugin reads only the text or workspace folder you explicitly paste or atta
 ### Step 2 — Verify
 
 Open a new Claude Desktop chat. Type `/skills`. You should see `/marketing-review` listed. Run it to start.
+
+### Using this in ChatGPT Desktop
+
+This skill also works in ChatGPT Desktop, on a paid plan (not available on the free tier). In ChatGPT: Settings → Apps & Connectors → Plugins → Upload plugin archive → select the downloaded zip, then start a new chat.
 
 ---
 

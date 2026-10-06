@@ -1,6 +1,6 @@
-# Bar-Compliant Marketing Reviewer v1.0.1
+# Bar-Compliant Marketing Reviewer v1.0.2
 
-Adds Legal Builder Hub freshness frontmatter (`freshness_category: regulatory`, 6-month window) with `verified_against` sources for the ABA Model Rules and each of the five bundled states (CA, TX, NY, FL, IL). No functional changes.
+Confirmed working in ChatGPT Desktop (paid plans) in addition to Claude Desktop. Removed the hardcoded "(Claude Desktop)" wording from the skill's own output footer, and documented ChatGPT Desktop installation in the README.
 
 ## What's included
 
