@@ -4,7 +4,7 @@ A Claude Desktop plugin for solo and small-firm attorneys. One skill (`/marketin
 
 **Distributed by [Protomated](https://protomated.com) as a free download.**
 
-**Works with:** Claude Desktop and ChatGPT Desktop (paid plans — not available on free ChatGPT).
+**Works with:** Claude Desktop and ChatGPT Desktop.
 
 ---
 
@@ -38,7 +38,7 @@ Open a new Claude Desktop chat. Type `/skills`. You should see `/marketing-revie
 
 ### Using this in ChatGPT Desktop
 
-This skill also works in ChatGPT Desktop, on a paid plan (not available on the free tier). In ChatGPT: Settings → Apps & Connectors → Plugins → Upload plugin archive → select the downloaded zip, then start a new chat.
+This skill also works in ChatGPT Desktop. In ChatGPT: Settings → Apps & Connectors → Plugins → Upload plugin archive → select the downloaded zip, then start a new chat.
 
 ---
 

@@ -1,6 +1,6 @@
-# Bar-Compliant Marketing Reviewer v1.0.2
+# Bar-Compliant Marketing Reviewer v1.0.3
 
-Confirmed working in ChatGPT Desktop (paid plans) in addition to Claude Desktop. Removed the hardcoded "(Claude Desktop)" wording from the skill's own output footer, and documented ChatGPT Desktop installation in the README.
+Confirmed working in ChatGPT Desktop in addition to Claude Desktop. Removed the hardcoded "(Claude Desktop)" wording from the skill's own output footer, and documented ChatGPT Desktop installation in the README.
 
 ## What's included
 
